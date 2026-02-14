@@ -20,6 +20,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Amazon EC2  
 - Amazon S3  
 
+## DEVELOPED BY : DHARUN ARULSELVAN
+## REG NO: 212224220024
 
 ## Tasks Performed
 
