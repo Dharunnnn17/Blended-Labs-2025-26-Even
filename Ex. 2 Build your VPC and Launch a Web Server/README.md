@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: DHARUN ARULSELVAN
+* **Register Number**: 212224220024
+* **Date of Submission**: 14-02-2026
 
 ---
 
@@ -99,7 +99,10 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/dcb12c23-560b-4a75-af7a-1d7656bf4614" />
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/95acb2c0-7d5b-4b0a-9f68-60b68ece14b7" />
+
+
 
 ---
 
