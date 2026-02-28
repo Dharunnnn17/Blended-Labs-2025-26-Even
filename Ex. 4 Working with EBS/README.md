@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: DHARUN ARULSELVAN
+* **Register Number**: 212224220024
+* **Date of Submission**: 28/02/2026
 
 ---
 
@@ -78,33 +78,33 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
+1. The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
+2. A new EBS volume was created by selecting the volume type, size, and the same Availability Zone as the EC2 instance.
+3. The created EBS volume was attached to the running EC2 instance as an additional block device.
+4. The attached volume was formatted using the ext4 file system and mounted to a directory in the EC2 instance.
+5. Sample data was stored in the mounted volume, and after rebooting the instance, data persistence was verified successfully.
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="1600" height="859" alt="image" src="https://github.com/user-attachments/assets/e02cfc51-4c02-4d6d-b3e2-2787f264283e" />
+
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/c50fad6f-9d86-4baa-9e7d-904ce0460696" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/1f77cf10-b12f-47d0-ac3d-c2c3ee4b5c07" />
+
 
 ---
 
