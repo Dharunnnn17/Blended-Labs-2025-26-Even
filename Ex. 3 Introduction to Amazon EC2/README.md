@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: DHARUN ARULSELVAN
+* **Register Number**: 212224220024
+* **Date of Submission**: 28/02/2026
 
 ---
 
@@ -98,11 +98,11 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.The EC2 Dashboard was accessed through the AWS Management Console to explore its various features.
+2.A new EC2 instance was launched using the Amazon Linux 2 AMI and the t2.micro instance type for free-tier eligibility.
+3.The security group was configured to allow SSH access from the specified IP address and HTTP access from all IPs.
+4.The instance was connected via SSH using the downloaded key pair, and basic operations such as stop, start, and reboot were performed.
+5.Finally, the instance was monitored using the Monitoring tab before being terminated to avoid additional charges.
 
 ---
 
@@ -110,19 +110,30 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/c4f51d3b-7b58-4cdb-908c-15a4021ef149" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/e7ff38c9-403c-4687-a4f0-65ff506cdaac" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/60cc3a42-ee6e-43e4-87c9-f999b1f608f2" />
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/050923a9-6f2f-4979-8bd8-2cb08970299a" />
+
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/5345400e-f750-4e6e-ab22-a39eec62e4db" />
+<img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/fb3efd45-197a-445e-a82d-d8fbdcede89a" />
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/ac841055-ce67-43f9-a9f4-908a042e5c23" />
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a44002e9-3cdd-4f5f-81da-97df5dfa05ad" />
+
+
+
 
 ---
 
