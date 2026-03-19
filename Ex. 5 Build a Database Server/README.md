@@ -96,19 +96,23 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+![027d76c5-9017-4769-8d25-e10be87e7046](https://github.com/user-attachments/assets/a58aabea-5bc5-41b7-806d-a87c7f757869)
+![38cf72aa-c3be-4f71-afee-ea333575b14d](https://github.com/user-attachments/assets/f1a8e8e5-a647-416b-bec9-33071bcece7b)
+
 
 ---
 
 ### Screenshot 2: Database Service Running
+![57c2cfbd-d4f8-43dd-b601-90b52fafac94](https://github.com/user-attachments/assets/fa08aabb-1508-4bcd-9b21-f5e34e96dc91)
+![4607766b-1dd1-4c38-89b2-8ddf66fb9ff2](https://github.com/user-attachments/assets/86945c77-7b2c-4a7a-94e2-3843b199d76e)
 
-(Insert Screenshot Here)
 
 ---
 
 ### Screenshot 3: Sample Database and Table
+![8fb1d844-98cd-4eeb-8585-aed430efea2f](https://github.com/user-attachments/assets/bcc4b48f-a665-4cf6-bead-b3edc3809ec7)
 
-(Insert Screenshot Here)
+
 
 ---
 
